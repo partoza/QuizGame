@@ -28,6 +28,6 @@ document.addEventListener("DOMContentLoaded", function() {
         localStorage.setItem("selectedName", selectedName);
         
         // Navigate to third.html
-        window.location.href = "home.html";
+        window.location.href = "Home.html";
     });
 });
